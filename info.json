@@ -1,0 +1,10 @@
+ {
+     "ns": "cn.newinfinideas.neworld",
+     "modules":[
+         {
+             "id": "NRT",
+             "uri": "https://github.com/DWVoid/NRT.git",
+             "usr": "NEWorld Runtime Support Library"
+         }
+     ]
+ }
