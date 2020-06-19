@@ -2,9 +2,14 @@
      "ns": "cn.newinfinideas.neworldrt",
      "modules":[
          {
-             "id": "NRT",
-             "uri": "https://github.com/DWVoid/NRT.git",
-             "usr": "NEWorld Runtime Support Library"
+           "id": "Crt",
+           "uri": "https://github.com/NEWorldProject/RT.Crt.git",
+           "usr": "NEWorld Runtime Support Library -- Core Runtime Sets"
+         },
+         {
+           "id": "Cfx",
+           "uri": "https://github.com/NEWorldProject/RT.Cfx.git",
+           "usr": "NEWorld Runtime Support Library -- Core Runtime Functions"
          }
      ]
  }
